@@ -5,3 +5,7 @@ models/*.joblib
 models/*.json
 models/*.geojson
 data/raw/*.csv
+
+# JetBrains PyCharm / IntelliJ IDE files
+.idea/
+*.iml
